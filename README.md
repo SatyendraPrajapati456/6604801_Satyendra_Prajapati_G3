@@ -8,4 +8,6 @@ This Project carries many information related to Data Science Domain .Such as Go
 6. How to present data if any question is raise .
 
 
-As I am using csv file i use read
+As I am using csv file i use pandas.read_csv 
+
+If you have excel file then use pandas.real_excel
