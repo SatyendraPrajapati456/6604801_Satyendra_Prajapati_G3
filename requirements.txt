@@ -1,0 +1,8 @@
+Libraries required 
+
+pandas
+seaborn
+numpy
+plotly
+
+As I have Created this project on Google Collab.So I didn't sure about the the vestions of the liberaries.
