@@ -6,3 +6,6 @@ This Project carries many information related to Data Science Domain .Such as Go
 4.Use of Skewness and Kurtosis .How they are different from each other.
 5.Visualization 
 6. How to present data if any question is raise .
+
+
+As I am using csv file i use read
